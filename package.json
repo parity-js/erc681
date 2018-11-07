@@ -3,6 +3,7 @@
   "version": "0.1.1",
   "description": "ERC-681 & ERC-831 parsing",
   "scripts": {
+    "lint": "echo 'No lint yet'",
     "test": "npm run build && node ./tests | tap-spec",
     "build": "rollup -c",
     "start": "rollup -c -w",
