@@ -30,7 +30,7 @@
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-peer-deps-external": "^2.0.0",
     "tap-spec": "^5.0.0",
-    "tape": "^4.9.1"
+    "tape": "^5.0.0"
   },
   "files": [
     "dist"
